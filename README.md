@@ -20,7 +20,8 @@ El usuario puede elegir entre estas opciones:
 Para este ejemplo seleccionamos MXN a Dolares y daremmos a "OK"
 
 
-<img src = "![Captura de pantalla 2023-09-10 002503](https://github.com/vanrj/conversor/assets/77997410/d5a7c48f-b2c2-464f-8686-cc3aae0461e6)" alt= "Imagen de conversor">
+![Captura de pantalla 2023-09-10 002503](https://github.com/vanrj/conversor/assets/77997410/d5a7c48f-b2c2-464f-8686-cc3aae0461e6)
+
 
 ## Ingresar el valor de la divisa a convertir
 Ahora nos cambiara por una ventana que nos pregunta el monto a cambiar
